@@ -46,6 +46,11 @@
       "sourceType": "github",
       "computedHash": "2ea87d17f71bbc8fb206af2e90d8345c9a978ee36c7874bcccdb0fdd8cdd745c"
     },
+    "twitter-automation": {
+      "source": "inferen-sh/skills",
+      "sourceType": "github",
+      "computedHash": "2f2f7645e961e0734c93b14a40bc0ff0dacd711c9d2bca272587b74e7bea2b56"
+    },
     "youtube-thumbnail-design": {
       "source": "inferen-sh/skills",
       "sourceType": "github",
