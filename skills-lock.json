@@ -6,6 +6,11 @@
       "sourceType": "github",
       "computedHash": "94390d92f942131443d324336910ebce4b696fb34246a7e6e16be5cdfb559f7e"
     },
+    "ai-video-generation": {
+      "source": "inferen-sh/skills",
+      "sourceType": "github",
+      "computedHash": "6fedc9632f486cef1f562b83563b0b38f135f5bc691445dabea2ee1a905b7712"
+    },
     "claude-api": {
       "source": "anthropics/skills",
       "sourceType": "github",
