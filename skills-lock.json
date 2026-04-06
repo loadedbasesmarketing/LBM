@@ -31,6 +31,11 @@
       "sourceType": "github",
       "computedHash": "063a0e6448123cd359ad0044cc46b0e490cc7964d45ef4bb9fd842bd2ffbca67"
     },
+    "instagram-scraper": {
+      "source": "apidojo-io/social-media-skills",
+      "sourceType": "github",
+      "computedHash": "faeeef7f20b979f6867c1021363696043e1acc5acdc62907d4742b7660fb38c9"
+    },
     "mcp-builder": {
       "source": "anthropics/skills",
       "sourceType": "github",
