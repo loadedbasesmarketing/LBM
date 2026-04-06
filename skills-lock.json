@@ -25,6 +25,11 @@
       "source": "anthropics/skills",
       "sourceType": "github",
       "computedHash": "b122f4d1e91aa1d83027e050b5b37c3156203ee85458d7b1360bc48167c9e02a"
+    },
+    "youtube-thumbnail-design": {
+      "source": "inferen-sh/skills",
+      "sourceType": "github",
+      "computedHash": "1a4d4ca9b66da93aa7f43ce366ba92f3b1d33d4c7edf7906f93cb99ee1ce054e"
     }
   }
 }
