@@ -1,0 +1,27 @@
+# dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# env files
+.env
+.env.local
+.env.*.local
+
+# logs
+logs/
+*.log
+
+# ads pipeline working dirs
+ads/pending/
+ads/published/
+ads/rejected/
+ads/forge-queue/
+ads/publisher-flags/
+briefs/
+
+# misc
+.DS_Store
+*.pem
