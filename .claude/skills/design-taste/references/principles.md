@@ -1,6 +1,6 @@
 # Principles
 
-Distilled on 2026-10-29 from the 12 most recent featured entries of eight galleries the Designeer catalogue lists: Curated Design, Minimal Gallery, SEESAW, Supahero, 60fps (App Sites), Dark Mode Design, One Page Love and Httpster. That gave 84 unique live sites. Each was loaded in headless Chromium at 1440x900 and again at 390x844, screenshotted, and measured from computed styles. 19 were excluded (bot checks, intro loaders, failed loads), leaving **65 measured sites**. "Headline-led" means the largest text above the fold is at least 40px and at least 2.5x body size: **49 sites**.
+Distilled on 2026-10-29 from the 12 most recent featured entries of eight galleries: seven listed on Designeer (Curated Design, Minimal Gallery, SEESAW, Supahero, 60fps App Sites, Dark Mode Design, One Page Love) plus Httpster, which Designeer does not list. That gave 84 unique live sites. Each was loaded in headless Chromium at 1440x900 and again at 390x844, screenshotted, and measured from computed styles. 19 were excluded (bot checks, intro loaders, failed loads), leaving **65 measured sites**. "Headline-led" means the largest text above the fold is at least 40px and at least 2.5x body size: **49 sites**.
 
 Numbers are medians, with the middle half (p25 to p75) in brackets. Site names in brackets are where the pattern was seen.
 
