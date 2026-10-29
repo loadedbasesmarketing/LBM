@@ -1,6 +1,6 @@
 # Sources
 
-Every entry below is listed on **Designeer** (https://designeer.xyz), an independently curated catalogue by Dhruv Jaradi. Names and one-line descriptions are quoted exactly as Designeer lists them, from its public `llms.txt` and `llms-full.txt` (read 2026-10-29). "Designeer page" links to the canonical listing; "Website" is the site the listing points to.
+Every entry below is listed on **Designeer** (https://designeer.xyz), an independently curated catalogue by Dhruv Jaradi. Names and one-line descriptions are quoted exactly as Designeer lists them, from its public `llms.txt` and `llms-full.txt` (read 2026-10-29). "Designeer page" links to the canonical listing; "Website" is the outbound link in the format Designeer uses (`?utm_source=designeer.xyz`). For Supahero, Dark Mode Design, One Page Love, Recent Design and footer.design the base address came from visiting the site, not from Designeer's files.
 
 Designeer's HTML pages, `.md` pages and catalogue API sit behind a Cloudflare check that blocks automated requests, even though its robots.txt allows them. `llms.txt`, `llms-full.txt` and `sitemap.xml` were open. To read a listing in full, open its Designeer page in a browser.
 
@@ -16,16 +16,16 @@ Status: **studied** = 12 latest featured sites opened, screenshotted at 1440 and
 
 | Use it when you need | Designeer name and description | Designeer page | Website | Status |
 |---|---|---|---|---|
-| Live sites across every style; fastest general scan | **Curated Design**: "Web design sorted by aesthetic style." | https://designeer.xyz/inspiration/curated-design | https://www.curated.design/ | studied |
-| Restrained, type-led and service-business sites | **Minimal Gallery**: "Showcase of minimal and restrained websites." | https://designeer.xyz/inspiration/minimal-gallery | https://minimal.gallery/ | studied |
-| Product and startup sites, browsable by page section | **SEESAW**: "Design inspiration organized by page section." | https://designeer.xyz/inspiration/seesaw | https://www.seesaw.website/ | studied |
-| The first viewport only, side by side | **Supahero**: "Curated collection of website hero sections." | https://designeer.xyz/inspiration/supahero | https://supahero.io | studied |
-| Dark-background sites | **Dark Mode Design**: "Showcase celebrating dark-mode websites." | https://designeer.xyz/inspiration/dark-mode-design | https://www.darkmodedesign.com | studied |
-| One-page sites, by genre and style | **One Page Love**: "Showcase of single-page website designs." | https://designeer.xyz/inspiration/one-page-love | https://onepagelove.com | studied |
-| Motion in real interfaces | **60fps**: "Recordings of interfaces that move well." | https://designeer.xyz/inspiration/60fps | https://60fps.design/ | studied (App Sites) |
-| SaaS landing pages only | **Saaspo**: "Curated SaaS landing page designs." | https://designeer.xyz/inspiration/saaspo | https://www.saaspo.com/ | blocked (Cloudflare); open manually |
-| Award-level sites, weekly | **Recent Design**: "Weekly selection of award-worthy websites." | https://designeer.xyz/inspiration/recent-design | https://recent.design | skimmed |
-| Footers | **footer.design**: "Curated gallery of creative website footers." | https://designeer.xyz/inspiration/footer-design | https://www.footer.design | studied (as one site) |
+| Live sites across every style; fastest general scan | **Curated Design**: "Web design sorted by aesthetic style." | https://designeer.xyz/inspiration/curated-design | https://www.curated.design/?utm_source=designeer.xyz | studied |
+| Restrained, type-led and service-business sites | **Minimal Gallery**: "Showcase of minimal and restrained websites." | https://designeer.xyz/inspiration/minimal-gallery | https://minimal.gallery/?utm_source=designeer.xyz | studied |
+| Product and startup sites, browsable by page section | **SEESAW**: "Design inspiration organized by page section." | https://designeer.xyz/inspiration/seesaw | https://www.seesaw.website/?utm_source=designeer.xyz | studied |
+| The first viewport only, side by side | **Supahero**: "Curated collection of website hero sections." | https://designeer.xyz/inspiration/supahero | https://supahero.io/?utm_source=designeer.xyz | studied |
+| Dark-background sites | **Dark Mode Design**: "Showcase celebrating dark-mode websites." | https://designeer.xyz/inspiration/dark-mode-design | https://www.darkmodedesign.com/?utm_source=designeer.xyz | studied |
+| One-page sites, by genre and style | **One Page Love**: "Showcase of single-page website designs." | https://designeer.xyz/inspiration/one-page-love | https://onepagelove.com/?utm_source=designeer.xyz | studied |
+| Motion in real interfaces | **60fps**: "Recordings of interfaces that move well." | https://designeer.xyz/inspiration/60fps | https://60fps.design/?utm_source=designeer.xyz | studied (App Sites) |
+| SaaS landing pages only | **Saaspo**: "Curated SaaS landing page designs." | https://designeer.xyz/inspiration/saaspo | https://www.saaspo.com/?utm_source=designeer.xyz | blocked (Cloudflare); open manually |
+| Award-level sites, weekly | **Recent Design**: "Weekly selection of award-worthy websites." | https://designeer.xyz/inspiration/recent-design | https://recent.design/?utm_source=designeer.xyz | skimmed |
+| Footers | **footer.design**: "Curated gallery of creative website footers." | https://designeer.xyz/inspiration/footer-design | https://www.footer.design/?utm_source=designeer.xyz | studied (as one site) |
 
 **Not on Designeer:** Httpster (https://www.httpster.net) was also studied and is cited in `principles.md`, but Designeer does not list it. Keep using it as an extra source; don't attribute it to Designeer.
 
@@ -53,10 +53,10 @@ Designeer's Inspiration collection also has a Reading category (33 listings, e.g
 
 | Use it when you need | Designeer name and description | Designeer page | Website | Status |
 |---|---|---|---|---|
-| Owned, editable React components | **shadcn/ui**: "Components you copy directly into codebases." | https://designeer.xyz/resources/shadcn-ui | https://ui.shadcn.com/ | skimmed |
-| Unstyled accessible primitives | **Radix**: "Accessible unstyled UI primitives for React." | https://designeer.xyz/resources/radix | https://www.radix-ui.com/ | skimmed |
-| Animated React parts | **Motion Primitives**: "Animated React components powered by Motion." | https://designeer.xyz/resources/motion-primitives | https://motion-primitives.com | skimmed |
-| Unstyled primitives, Radix alternative | **Base UI**: "Unstyled component primitives from Radix and MUI." | https://designeer.xyz/resources/base-ui | https://base-ui.com/ | not yet opened |
+| Owned, editable React components | **shadcn/ui**: "Components you copy directly into codebases." | https://designeer.xyz/resources/shadcn-ui | https://ui.shadcn.com/?utm_source=designeer.xyz | skimmed |
+| Unstyled accessible primitives | **Radix**: "Accessible unstyled UI primitives for React." | https://designeer.xyz/resources/radix | https://www.radix-ui.com/?utm_source=designeer.xyz | skimmed |
+| Animated React parts | **Motion Primitives**: "Animated React components powered by Motion." | https://designeer.xyz/resources/motion-primitives | https://motion-primitives.com/?utm_source=designeer.xyz | skimmed |
+| Unstyled primitives, Radix alternative | **Base UI**: "Unstyled component primitives from Radix and MUI." | https://designeer.xyz/resources/base-ui | https://base-ui.com/?utm_source=designeer.xyz | not yet opened |
 | Animated numbers (leaderboards, sales counters) | **NumberFlow**: "Smooth number transitions across modern frameworks." | https://designeer.xyz/resources/numberflow | | not yet opened |
 | Charts for dashboards on shadcn | **Evil Charts**: "Animated SVG charts designed for shadcn/ui." | https://designeer.xyz/resources/evil-charts | | not yet opened |
 
@@ -68,12 +68,12 @@ Warning on shadcn/ui: the defaults (one radius, one shadow, a system-style font)
 
 | Use it when you need | Designeer name and description | Designeer page | Website | Status |
 |---|---|---|---|---|
-| Free display and text faces with character (Clash Display, Cabinet Grotesk, Satoshi, General Sans, Switzer, Gambetta, Zodiak; 100 families) | **Fontshare**: "High-quality professional fonts free for commercial use." | https://designeer.xyz/resources/fontshare | https://fontshare.com/ | skimmed (catalogue read) |
-| Self-hosted open-source fonts via npm (Geist, Instrument Serif, Fraunces, Anton, Bebas Neue; 2,103 families) | **Fontsource**: "Self-host open-source fonts via npm packages." | https://designeer.xyz/resources/fontsource | https://fontsource.org/ | skimmed (catalogue read) |
-| A fluid type scale (H1 that scales from 40px mobile to 66px+ desktop) | **Utopia**: "Fluid typography calculator generating CSS clamp." | https://designeer.xyz/resources/utopia | https://utopia.fyi/ | not yet opened |
+| Free display and text faces with character (Clash Display, Cabinet Grotesk, Satoshi, General Sans, Switzer, Gambetta, Zodiak; 100 families) | **Fontshare**: "High-quality professional fonts free for commercial use." | https://designeer.xyz/resources/fontshare | https://fontshare.com/?utm_source=designeer.xyz | skimmed (catalogue read) |
+| Self-hosted open-source fonts via npm (Geist, Instrument Serif, Fraunces, Anton, Bebas Neue; 2,103 families) | **Fontsource**: "Self-host open-source fonts via npm packages." | https://designeer.xyz/resources/fontsource | https://fontsource.org/?utm_source=designeer.xyz | skimmed (catalogue read) |
+| A fluid type scale (H1 that scales from 40px mobile to 66px+ desktop) | **Utopia**: "Fluid typography calculator generating CSS clamp." | https://designeer.xyz/resources/utopia | https://utopia.fyi/?utm_source=designeer.xyz | not yet opened |
 | Picking the one accent in OKLCH | **OKLCH**: "Color picker using perceptually uniform space." | https://designeer.xyz/resources/oklch | | not yet opened |
 | Checking text contrast | **Color.review**: "Contrast checker helping design accessible palettes." | https://designeer.xyz/resources/color-review | | not yet opened |
-| Experimental display faces | **Velvetyne**: "Open-source foundry distributing experimental typefaces." | https://designeer.xyz/resources/velvetyne | https://velvetyne.fr/ | not yet opened |
+| Experimental display faces | **Velvetyne**: "Open-source foundry distributing experimental typefaces." | https://designeer.xyz/resources/velvetyne | https://velvetyne.fr/?utm_source=designeer.xyz | not yet opened |
 
 Install examples: Fontsource `npm i @fontsource-variable/geist` then `import '@fontsource-variable/geist';`. Fontshare CSS: `https://api.fontshare.com/v2/css?f[]=satoshi@400,500,700&display=swap`. Both checked working 2026-10-29.
 
