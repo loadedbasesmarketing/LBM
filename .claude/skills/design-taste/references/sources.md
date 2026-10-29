@@ -1,6 +1,6 @@
 # Sources
 
-Every entry below is listed on **Designeer** (https://designeer.xyz), an independently curated catalogue by Dhruv Jaradi. Names and one-line descriptions are quoted exactly as Designeer lists them, from its public `llms.txt` and `llms-full.txt` (read 2026-10-29). "Designeer page" links to the canonical listing; "Website" is the outbound link in the format Designeer uses (`?utm_source=designeer.xyz`). For Supahero, Dark Mode Design, One Page Love, Recent Design and footer.design the base address came from visiting the site, not from Designeer's files.
+Every entry below is listed on **Designeer** (https://designeer.xyz), an independently curated catalogue by Dhruv Jaradi. Names and one-line descriptions are quoted exactly as Designeer lists them, from its public `llms.txt` and `llms-full.txt` (read 2026-10-29). "Designeer page" links to the canonical listing; "Website" is the outbound link in the format Designeer uses (`?utm_source=designeer.xyz`). Where Designeer's open files did not give the address (most entries outside the first ten per collection), the base address is the site's official one, found and checked directly, with Designeer's format added.
 
 Designeer's HTML pages, `.md` pages and catalogue API sit behind a Cloudflare check that blocks automated requests, even though its robots.txt allows them. `llms.txt`, `llms-full.txt` and `sitemap.xml` were open. To read a listing in full, open its Designeer page in a browser.
 
@@ -31,21 +31,21 @@ Status: **studied** = 12 latest featured sites opened, screenshotted at 1440 and
 
 ### On Designeer, not yet opened, most useful for LBM work
 
-| Use it when you need | Designeer name and description | Designeer page |
-|---|---|---|
-| Landing pages by industry (local business, recruiting, services) | **Land-book**: "Landing pages organized by industry." | https://designeer.xyz/inspiration/land-book |
-| Responsive landing pages | **Lapa Ninja**: "Curated gallery of responsive landing pages." | https://designeer.xyz/inspiration/lapa-ninja |
-| Big landing-page library | **Landingfolio**: "Extensive library of landing page designs." | https://designeer.xyz/inspiration/landingfolio |
-| SaaS marketing pages, full length | **SaaSFrame**: "Hundreds of SaaS marketing page screenshots." | https://designeer.xyz/inspiration/saasframe |
-| CTA buttons and banners | **cta.gallery**: "Curated call-to-action button and banner designs." | https://designeer.xyz/inspiration/cta-gallery |
-| Navigation bars | **navbar.design**: "Curated gallery of navigation bar patterns." | https://designeer.xyz/inspiration/navbar-design |
-| Real product flows (onboarding, dashboards) | **Mobbin**: "Real mobile and web product flows." | https://designeer.xyz/inspiration/mobbin |
-| Micro-interactions | **Details**: "Micro-interaction analysis of top digital products." | https://designeer.xyz/inspiration/details |
-| Dark-mode interfaces | **Sombra**: "Showcase of dark-mode website interfaces." | https://designeer.xyz/inspiration/sombra |
-| Social graphics (recruiting posts, Skool banners) | **posts.design**: "Curated social media graphic design archive." | https://designeer.xyz/inspiration/posts-design |
-| Open Graph and share cards | **OGFolio**: "Inspect and preview Open Graph social cards." | https://designeer.xyz/inspiration/ogfolio |
-| Fine craft, broad archive | **SiteInspire**: "Showcase of fine web design craft." | https://designeer.xyz/inspiration/siteinspire |
-| Award winners | **Awwwards**: "Awards celebrating exceptional digital web craft." | https://designeer.xyz/inspiration/awwwards |
+| Use it when you need | Designeer name and description | Designeer page | Website | Note |
+|---|---|---|---|---|
+| Landing pages by industry (local business, recruiting, services) | **Land-book**: "Landing pages organized by industry." | https://designeer.xyz/inspiration/land-book | https://land-book.com/?utm_source=designeer.xyz | site blocks bots; address not load-tested |
+| Responsive landing pages | **Lapa Ninja**: "Curated gallery of responsive landing pages." | https://designeer.xyz/inspiration/lapa-ninja | https://www.lapa.ninja/?utm_source=designeer.xyz | site blocks bots; address not load-tested |
+| Big landing-page library | **Landingfolio**: "Extensive library of landing page designs." | https://designeer.xyz/inspiration/landingfolio | https://www.landingfolio.com/?utm_source=designeer.xyz | loads |
+| SaaS marketing pages, full length | **SaaSFrame**: "Hundreds of SaaS marketing page screenshots." | https://designeer.xyz/inspiration/saasframe | https://www.saasframe.io/?utm_source=designeer.xyz | loads |
+| CTA buttons and banners | **cta.gallery**: "Curated call-to-action button and banner designs." | https://designeer.xyz/inspiration/cta-gallery | https://www.cta.gallery/?utm_source=designeer.xyz | loads |
+| Navigation bars | **navbar.design**: "Curated gallery of navigation bar patterns." | https://designeer.xyz/inspiration/navbar-design | https://navbar.design/?utm_source=designeer.xyz | loads |
+| Real product flows (onboarding, dashboards) | **Mobbin**: "Real mobile and web product flows." | https://designeer.xyz/inspiration/mobbin | https://mobbin.com/?utm_source=designeer.xyz | loads; address from Designeer |
+| Micro-interactions | **Details**: "Micro-interaction analysis of top digital products." | https://designeer.xyz/inspiration/details |  | website not identified; open the Designeer page |
+| Dark-mode interfaces | **Sombra**: "Showcase of dark-mode website interfaces." | https://designeer.xyz/inspiration/sombra |  | website not identified; open the Designeer page |
+| Social graphics (recruiting posts, Skool banners) | **posts.design**: "Curated social media graphic design archive." | https://designeer.xyz/inspiration/posts-design | https://posts.design/?utm_source=designeer.xyz | loads |
+| Open Graph and share cards | **OGFolio**: "Inspect and preview Open Graph social cards." | https://designeer.xyz/inspiration/ogfolio | https://www.ogfolio.com/?utm_source=designeer.xyz | loads; address from Designeer |
+| Fine craft, broad archive | **SiteInspire**: "Showcase of fine web design craft." | https://designeer.xyz/inspiration/siteinspire | https://www.siteinspire.com/?utm_source=designeer.xyz | rate-limited; address not load-tested |
+| Award winners | **Awwwards**: "Awards celebrating exceptional digital web craft." | https://designeer.xyz/inspiration/awwwards | https://www.awwwards.com/?utm_source=designeer.xyz | address from Designeer; blocked from here |
 
 Designeer's Inspiration collection also has a Reading category (33 listings, e.g. Refactoring UI, Practical Typography, Laws of UX, Josh Comeau). Their pages are in the sitemap; open them on Designeer for exact names.
 
@@ -57,8 +57,8 @@ Designeer's Inspiration collection also has a Reading category (33 listings, e.g
 | Unstyled accessible primitives | **Radix**: "Accessible unstyled UI primitives for React." | https://designeer.xyz/resources/radix | https://www.radix-ui.com/?utm_source=designeer.xyz | skimmed |
 | Animated React parts | **Motion Primitives**: "Animated React components powered by Motion." | https://designeer.xyz/resources/motion-primitives | https://motion-primitives.com/?utm_source=designeer.xyz | skimmed |
 | Unstyled primitives, Radix alternative | **Base UI**: "Unstyled component primitives from Radix and MUI." | https://designeer.xyz/resources/base-ui | https://base-ui.com/?utm_source=designeer.xyz | not yet opened |
-| Animated numbers (leaderboards, sales counters) | **NumberFlow**: "Smooth number transitions across modern frameworks." | https://designeer.xyz/resources/numberflow | | not yet opened |
-| Charts for dashboards on shadcn | **Evil Charts**: "Animated SVG charts designed for shadcn/ui." | https://designeer.xyz/resources/evil-charts | | not yet opened |
+| Animated numbers (leaderboards, sales counters) | **NumberFlow**: "Smooth number transitions across modern frameworks." | https://designeer.xyz/resources/numberflow | https://number-flow.barvian.me/?utm_source=designeer.xyz | not yet opened |
+| Charts for dashboards on shadcn | **Evil Charts**: "Animated SVG charts designed for shadcn/ui." | https://designeer.xyz/resources/evil-charts | https://evilcharts.com/?utm_source=designeer.xyz | not yet opened |
 
 Warning on Motion Primitives: its **Glow Effect**, **Spotlight**, **Border Trail**, **Text Shimmer** and **Text Shimmer Wave** produce tells T2, T9 and T11 by default. Don't use them unless the brief justifies it in writing.
 
@@ -71,8 +71,8 @@ Warning on shadcn/ui: the defaults (one radius, one shadow, a system-style font)
 | Free display and text faces with character (Clash Display, Cabinet Grotesk, Satoshi, General Sans, Switzer, Gambetta, Zodiak; 100 families) | **Fontshare**: "High-quality professional fonts free for commercial use." | https://designeer.xyz/resources/fontshare | https://fontshare.com/?utm_source=designeer.xyz | skimmed (catalogue read) |
 | Self-hosted open-source fonts via npm (Geist, Instrument Serif, Fraunces, Anton, Bebas Neue; 2,103 families) | **Fontsource**: "Self-host open-source fonts via npm packages." | https://designeer.xyz/resources/fontsource | https://fontsource.org/?utm_source=designeer.xyz | skimmed (catalogue read) |
 | A fluid type scale (H1 that scales from 40px mobile to 66px+ desktop) | **Utopia**: "Fluid typography calculator generating CSS clamp." | https://designeer.xyz/resources/utopia | https://utopia.fyi/?utm_source=designeer.xyz | not yet opened |
-| Picking the one accent in OKLCH | **OKLCH**: "Color picker using perceptually uniform space." | https://designeer.xyz/resources/oklch | | not yet opened |
-| Checking text contrast | **Color.review**: "Contrast checker helping design accessible palettes." | https://designeer.xyz/resources/color-review | | not yet opened |
+| Picking the one accent in OKLCH | **OKLCH**: "Color picker using perceptually uniform space." | https://designeer.xyz/resources/oklch | https://oklch.com/?utm_source=designeer.xyz | not yet opened |
+| Checking text contrast | **Color.review**: "Contrast checker helping design accessible palettes." | https://designeer.xyz/resources/color-review | https://color.review/?utm_source=designeer.xyz | not yet opened |
 | Experimental display faces | **Velvetyne**: "Open-source foundry distributing experimental typefaces." | https://designeer.xyz/resources/velvetyne | https://velvetyne.fr/?utm_source=designeer.xyz | not yet opened |
 
 Install examples: Fontsource `npm i @fontsource-variable/geist` then `import '@fontsource-variable/geist';`. Fontshare CSS: `https://api.fontshare.com/v2/css?f[]=satoshi@400,500,700&display=swap`. Both checked working 2026-10-29.
